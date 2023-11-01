@@ -12,11 +12,25 @@ The project uses "Twenty Newsgroups" dataset available through scikit-learn at <
   
 </ul>
 
-## Tentative Method and Content of the repository
+## Tentative Method and Content of the Repository
+
+All .ipynb files in this project were created using Colaboratory. 
+
 <img alt ="Project Method Flow Chart" src="https://github.com/Satomiko/20Newsgroups/blob/main/20%20NewsGroups%20Flow%20Chart.jpg">
 
+
+Contents:
+<ul>
+<li> <a href='https://github.com/Satomiko/20Newsgroups/blob/main/20%20NewsGroups%20Flow%20Chart.jpg'>20 NewsGroups Flow Chart.jpg</a>: Flow Chart showing method of project</li>
+<li> <a href='https://github.com/Satomiko/20Newsgroups/blob/main/2_preprocessing_methods.ipynb'>2_preprocessing_methods.ipynb</a>: Select Preprocessing Method after review</li>
+<li> <a href='https://github.com/Satomiko/20Newsgroups/blob/main/Original_20_Newsgroup_Data.ipynb'>Original_20_Newsgroup_Data.ipynb</a>: Working Python code for initial Anaylsis of Original Dataset</li>
+<li> <a href='https://github.com/Satomiko/20Newsgroups/blob/main/Subsets_Experiment_and_Analysis.ipynb'>Subsets_Experiment_and_Analysis.ipynb</a>: Working Python code for creating subsets, preprocessing, exploratory Analysis, Feature extraction, Ecperimental design, Modeling and Evaluation</li>
+
+</ul>
+
+  
 <ol>
-  <li>Initial analysis</li>
+  <li>Initial analysis worked on <a href="https://github.com/Satomiko/20Newsgroups/blob/main/Original_20_Newsgroup_Data.ipynb" target="_blank">Original_20_Newsgroup_Data.ipynb</a></li>
   <li>Create unique subsets for analysis</li>
   <li>Preprocessing</li>
   <li>Exploratory Analysis of each subset</li>
