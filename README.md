@@ -11,3 +11,6 @@ The project uses "Twenty Newsgroups" dataset available through scikit-learn at <
   <li>In the “Twenty Newsgroups” dataset, we have news categories that has significant similarity, such as 'comp.sys.ibm.pc.hardware' and 'comp.sys.mac.hardware'. How does this similarity impact our models, and are there effective solutions for handling data when some news categories closely resemble each other?</li>
   
 </ol>
+
+## Tentative Method
+<img alt ="Project Method Flow Chart" src="https://github.com/Satomiko/20Newsgroups/blob/main/20%20NewsGroups%20Flow%20Chart.jpg">
