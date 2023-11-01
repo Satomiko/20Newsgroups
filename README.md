@@ -28,15 +28,3 @@ Contents:
 
 </ul>
 
-  
-<ol>
-  <li>Initial analysis worked on <a href="https://github.com/Satomiko/20Newsgroups/blob/main/Original_20_Newsgroup_Data.ipynb" target="_blank">Original_20_Newsgroup_Data.ipynb</a></li>
-  <li>Create unique subsets for analysis</li>
-  <li>Preprocessing</li>
-  <li>Exploratory Analysis of each subset</li>
-  <li>Feature Exttraction and Dimensionally reduction</li>
-  <li>Experimental design</li>
-  <li>Modeling</li>
-  <li>Evaluation</li>
-  <li>Identify the limitation for improvement</li>
-</ol>
