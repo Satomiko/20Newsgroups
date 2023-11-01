@@ -12,7 +12,7 @@ The project uses "Twenty Newsgroups" dataset available through scikit-learn at <
   
 </ul>
 
-## Tentative Method
+## Tentative Method and Content of the repository
 <img alt ="Project Method Flow Chart" src="https://github.com/Satomiko/20Newsgroups/blob/main/20%20NewsGroups%20Flow%20Chart.jpg">
 
 <ol>
