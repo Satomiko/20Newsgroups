@@ -14,7 +14,6 @@ The project uses "Twenty Newsgroups" dataset available through scikit-learn at <
 
 ## Tentative Method and Content of the Repository
 
-All .ipynb files in this project were created using Colaboratory. 
 
 <img alt ="Project Method Flow Chart" src="https://github.com/Satomiko/20Newsgroups/blob/main/20%20NewsGroups%20Flow%20Chart.jpg">
 
@@ -27,4 +26,5 @@ Contents:
 <li> <a href='https://github.com/Satomiko/20Newsgroups/blob/main/Subsets_Experiment_and_Analysis.ipynb'>Subsets_Experiment_and_Analysis.ipynb</a>: Working Python code for creating subsets, preprocessing, exploratory Analysis, Feature extraction, Ecperimental design, Modeling and Evaluation</li>
 
 </ul>
+All .ipynb files in this project were created using Colaboratory. 
 
