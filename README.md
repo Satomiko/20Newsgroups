@@ -27,7 +27,7 @@ The project uses "Twenty Newsgroups" dataset available through scikit-learn at <
 <li>Removing special characters</li>
 <li>Lemmatization</li> 
 <li>Removing one-letter words</li>
-<li>Deleting empty observations</li>li></ul>
+<li>Deleting empty observations</li></ul>
 </li>
   <li><b>Exploratory Analysis:</b>Identify frequent words for each class by using word cloud. The 10 most frequent words for each class are identified.</li>
   <li><b>Feature Extraction and Dimensionality Reduction:</b> TF-IDF (Term Frequency-Inverse Document Frequency) technique is used to extract features from the text data. In this study, dimension of the data is controlled using the “max_features” argument within the “Tfidvectorier” functions.</li>
