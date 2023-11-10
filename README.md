@@ -41,7 +41,7 @@ The project uses "Twenty Newsgroups" dataset available through scikit-learn at <
 <li>  Flow Chart showing method of project: <a href='https://github.com/Satomiko/20Newsgroups/blob/main/20%20NewsGroups%20Flow%20Chart.jpg'>20 NewsGroups Flow Chart.jpg</a></li>
 <li> Select Preprocessing Method after review:<a href='https://github.com/Satomiko/20Newsgroups/blob/main/2_preprocessing_methods.ipynb'>2_preprocessing_methods.ipynb</a></li>
 <li> Working Python code for initial Anaylsis of Original Dataset:<a href='https://github.com/Satomiko/20Newsgroups/blob/main/Original_20_Newsgroup_Data.ipynb'>Original_20_Newsgroup_Data.ipynb</a></li>
-<li> Working Python code for initial Anaylsis of Original Dataset (PDF): <a href='https://github.com/Satomiko/20Newsgroups/blob/main/Original_20_Newsgroup_Data.ipynbsgroup_Data.pdf'>Original_20_Newsgroup_Data.pdf</a></li>
+<li> Working Python code for initial Anaylsis of Original Dataset (PDF): <a href='https://github.com/Satomiko/20Newsgroups/blob/main/Original_20_Newsgroup_Data.pdf'>Original_20_Newsgroup_Data.pdf</a></li>
 <li> Working Python code for creating subsets, preprocessing, exploratory Analysis, Feature extraction, Ecperimental design, Modeling and Evaluation: <a href='https://github.com/Satomiko/20Newsgroups/blob/main/Subsets_Experiment_and_Analysis.ipynb'>Subsets_Experiment_and_Analysis.ipynb</a></li>
 <li> Working Python code for creating subsets, preprocessing, exploratory Analysis, Feature extraction, Ecperimental design, Modeling and Evaluation (PDF): <a href='https://github.com/Satomiko/20Newsgroups/blob/main/Subsets_Experiment_and_Analysis.pdf'>Subsets_Experiment_and_Analysis.pdf</a> </li>
 
