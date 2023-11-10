@@ -12,13 +12,31 @@ The project uses "Twenty Newsgroups" dataset available through scikit-learn at <
   
 </ul>
 
-## Tentative Method and Content of the Repository
+## Tentative Method
 
 
 <img alt ="Project Method Flow Chart" src="https://github.com/Satomiko/20Newsgroups/blob/main/20%20NewsGroups%20Flow%20Chart.jpg">
 
+<ol>
+<li><b>Initial Analysis:</b> Conduct univariate analysis to understand the original data.</li>
+<li><b>Subset Creation:</b> Create 3 subsets to assess the impact of text data characteristics on performance. In each subset, select 5 out of 20 available categories strategically. The first subset comprises 1 category from each of the different main topic, while the second subset includes five categories all related to a single topic. Additionally, create a third subset by combining small classes within the main topics, intentionally introducing an imbalance in this subset.</li>
+<li><b>Data Preprocessing:</b>Clean the text data by performing the following techniques:
+  <ul>
+<li>Lowercasing</li>
+<li>Removing stop words</li>
+<li>Removing special characters</li>
+<li>Lemmatization</li> 
+<li>Removing one-letter words</li>
+<li>Deleting empty observations</li>li></ul>
+</li>
+  <li><b>Exploratory Analysis:</b>Identify frequent words for each class by using word cloud. The 10 most frequent words for each class are identified.</li>
+  <li><b>Feature Extraction and Dimensionality Reduction:</b> TF-IDF (Term Frequency-Inverse Document Frequency) technique is used to extract features from the text data. In this study, dimension of the data is controlled using the “max_features” argument within the “Tfidvectorier” functions.</li>
+  <li><b>Experimental Design and modeling:</b> Apply Multinomial Naive Bayes, Decision Tree, Logistic Regression, and Support Vector Machine for predictive modeling. The 20 news group data set is pre-separated into training and testing sets. Cross-validation is performed on training data.</li>
+  <li><b>Evaluation:</b> Assess model performance using confusion matrix, precision, accuracy, and recall. Compare performance across machine learning algorithms and as well as across subsets.</li>
+  <li><b>Conclusion:</b> Identifying the limitations of the models, which will serve as a foundation for future improvements.</li>
+</ol>
 
-Contents:
+## Contents of Repository:
 <ul>
 <li> <a href='https://github.com/Satomiko/20Newsgroups/blob/main/20%20NewsGroups%20Flow%20Chart.jpg'>20 NewsGroups Flow Chart.jpg</a>: Flow Chart showing method of project</li>
 <li> <a href='https://github.com/Satomiko/20Newsgroups/blob/main/2_preprocessing_methods.ipynb'>2_preprocessing_methods.ipynb</a>: Select Preprocessing Method after review</li>
